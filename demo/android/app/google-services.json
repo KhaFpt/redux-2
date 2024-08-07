@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617758511161",
+    "project_id": "take-note-31da0",
+    "storage_bucket": "take-note-31da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617758511161:android:49ef514569b482916c7de8",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhmLElxEiSFZyML4APrsvrIvxjEvald4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
